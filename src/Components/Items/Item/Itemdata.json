@@ -1,0 +1,170 @@
+{
+    "items":[{
+
+        "item_name":"Ott",
+        "id":"Strm",
+        "item_desc":"Originals",
+        "img":"../../../../../assets/10-best-OTT-Subscription-plans-in-India-that-are-worth-buying-in-2022.jpg",
+        "sub_item":[{
+            "sub_id":"St",
+            "sub_name":"Stranger Things",
+            "imdb_rating":"5000",
+            "s_img":"../../../../../assets/38145f58808319.5bf89d101606e.jpg",
+            "cast":"Winona Ryder,David Harbour,Finn Wolfhard",
+            "Review":"Parents need to know that Stranger Things is a sci-fi/horror drama that centers on a group of tween/teen friends who find themselves fighting mysterious, dangerous forces in their small Indiana "
+        },{
+            "sub_id":"tb",
+            "sub_name":"The Boys",
+            "imdb_rating":"5550",
+            "s_img":"../../../../../assets/The-Boys-Season-3.jpg",
+            "cast":"Karl Urban,Jack Quaid,Antony Starr ",
+            "Review":"Having being all superheroed out with the never ending train of films this is so much welcome relief. It's not for kids and I love the choice language which is appropriate."
+        },{
+            "sub_id":"kf",
+            "sub_name":"Kota Factory",
+            "imdb_rating":"9.0",
+            "s_img":"https://wallpapercave.com/wp/wp9982725.jpg",
+            "cast":"jitendra Kumar,Urvi Singh,Mayur More,Ahsaas Channa",
+            "Review":"the creator of the show, said that he aims to change the popular narrative surrounding Kota and preparation for IIT-JEE & NEET in Indian pop culture to a more positive one via the show.[2] The series premiered simultaneously on TVFPlay and YouTube from 16 April to 14 May 2019. The series received a generally positive response from critics, praising its black & white setting, realism, and the major technical aspects of the series"
+        },{
+            "sub_id":"IBH",
+            "sub_name":"Indubalar Bhater Hotel",
+            "imdb_rating":"7.9",
+            "s_img":"../../../../../assets/94343759.webp",
+            "cast":"Subhasree Ganguly",
+             "Review":"From being a little girl in rural Bangladesh to being an entrepreneur in Kolkata, Indubala's journey is laced with the desolation of separation from her roots and the consolation of every taste being a memory of someone she has lost."
+
+        },{
+            "sub_id":"N",
+            "sub_name":"Narcos",
+            "imdb_rating":"8.8",
+            "s_img":"../../../../../assets/81nTw+95MyL._SL1500_.jpg",
+            "cast":"Pedro Pascal",
+             "Review":"A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years."
+        },{
+            "sub_id":"F",
+            "sub_name":"Farzi",
+            "imdb_rating":"8.5",
+            "s_img":"../../../../../assets/FqjkRIFWYAAHpCH.jfif",
+            "cast":"Shahid Kapoor,Vijay Setupati",
+             "Review":"An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller."
+
+        },{
+            "sub_id":"O",
+            "sub_name":"Ozark",
+            "imdb_rating":"8.5",
+            "s_img":"../../../../../assets/oy7Peo5iFIt9sNM59lN6csbJeX2.jpg",
+            "cast":"Jason Bateman,Laura Linney",
+            "Review":"A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss"
+
+        },{
+            "sub_id":"TBB",
+            "sub_name":"The Breaking Bad",
+            "imdb_rating":"9.5",
+            "s_img":"../../../../../assets/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+            "cast":"Bryan Cranston,Aaron Paul",
+            "Review":"A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student in order to secure his family's future."
+        },{
+            "sub_id":"BM",
+            "sub_name":"Black Mirror",
+            "imdb_rating":"8.8",
+            "s_img":"../../../../../assets/p8952681_b_v13_ab.jpg",
+            "cast":"Daniel Lapaine,Hannah john-Kamen",
+            "Review":"An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide."
+
+        }]
+
+    },{
+         
+        "item_name":"In theater",
+        "id":"theatrs",
+        "item_desc":"Movie",
+        "img":"../../../../../assets/Fm5bzBvacAASD4h.jfif",
+        "sub_item":[{
+            "sub_id":"TJMM",
+            "sub_name":"Tu jhooti main makkar",
+            "imdb_rating":"6.8",
+            "s_img":"https://m.media-amazon.com/images/M/MV5BYmRmMzIyN2UtYzRlMC00MDMwLWFiN2ItMTcxZGY4Njg3ZTYyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+            "cast":"Ranbir Kapoor,Shradha Kapoor",
+            "Review":"Madness ensues when a 'player' in the world of romantic relationships finds a girl who's a worthy opponent, that believes love is a battle of wits"
+        },{
+            "sub_id":"ANT",
+            "sub_name":"Ant-Man and the Wasp: Quantumania",
+            "imdb_rating":"6.5",
+            "s_img":"../../../../../assets/FqoyHCIaMAQXkB0.jfif",
+            "cast":"Paul Rudd,Stan Lee",
+            "Review":"Scott Lang and Hope Van Dyne, along with Hank Pym and Janet Van Dyne, explore the Quantum Realm, where they interact with strange creatures and embark on an adventure that goes beyond the limits of what they thought was possible."
+        },{
+            "sub_id":"P",
+            "sub_name":"Pathaan",
+            "imdb_rating":"6.4",
+            "s_img":"../../../../../assets/Pathaan-25-322x402.jpg",
+            "cast":"Shah Rukh Khan,Deepika Padukone,John Abraham",
+            "Review":"An Indian spy takes on the leader of a group of mercenaries who have nefarious plans to target his homeland."
+        },{
+            "sub_id":"PP",
+            "sub_name":"Projapati",
+            "imdb_rating":"8.2",
+            "s_img":"../../../../../assets/download.jfif",
+            "cast":"Dev,Mithun Chakraborty",
+            "Review":"A retired 65-year widower, lives alone as his son, Joy, a wedding planner running his own business, has a very busy schedule. He wishes Joy to be married. Will he be successful?"
+        },{
+            "sub_id":"KA",
+            "sub_name":"Kaberi Antardhan",
+            "imdb_rating":"6000",
+            "s_img":"../../../../../assets/download (1).jfif",
+            "cast":"Jimmy_pb"
+        },{
+            "sub_id":"S",
+            "sub_name":"Selfiee",
+            "imdb_rating":"5550",
+            "s_img":"../../../../../assets/download (3).jfif",
+            "cast":"Jimmy_pb"
+        }]
+
+    },{
+        
+            "item_name":"Popular",
+            "id":"soon",
+            "item_desc":"All time Blockbuster",
+            "img":"../../../../../assets/the-shawshank-redemption-movies-wallpaper-preview.jpg",
+            "sub_item":[{
+                "sub_id":"R",
+                "sub_name":"RRR",
+                "imdb_rating":"7.9",
+                "s_img":"https://blogger.googleusercontent.com/img/a/AVvXsEhVZvNSmsylWVqzc8M31Zm-e0Rxim5qHFQhrzS7OlJqC_UVxx369wCH83ofSAYO_RFNLks2c_8UA-JUX9wSOORCL_44WVgB3vCnV8b2MexMGIMBMgttHkRtxNDOkMqBr-seEr_j4J7JuwjvdoFKYhhrrFgvKQMZ3kRMwHPs9Vw1iXxkdtZdLbCCZPkiKA",
+                "cast":"Ram Charan,Jn NTR,Alia Bhatt"
+            },{
+                "sub_id":"SR",
+                "sub_name":"The Shawshank Redemption",
+                "imdb_rating":"9.3",
+                "s_img":"https://wallpapercave.com/wp/wp2014276.jpg",
+                "cast":"Morgan Freeman,Tim Robbins"
+            },{
+                "sub_id":"T",
+                "sub_name":"Titanic",
+                "imdb_rating":"7.9",
+                "s_img":"https://c4.wallpaperflare.com/wallpaper/970/201/126/titanic-movie-wallpaper-preview.jpg",
+                "cast":"Kate Winslet,Leo nardo de caprio"
+            },{
+                "sub_id":"I",
+                "sub_name":"Inception",
+                "imdb_rating":"8.8",
+                "s_img":"https://cdn.suwalls.com/wallpapers/movies/inception-988-1920x1200.jpg",
+                "cast":"Leo nardo de caprio,Joseph Gordon Levitt"
+            },{
+                "sub_id":"Jp",
+                "sub_name":"Jurassic Park",
+                "imdb_rating":"8.3",
+                "s_img":"https://c4.wallpaperflare.com/wallpaper/521/226/541/jurassic-park-skeleton-dinosaur-hd-wallpaper-preview.jpg",
+                "cast":"Sam Neill, Laura Dern, Jeff Goldblum, and Richard Attenborough"
+            },{
+                "sub_id":"D",
+                "sub_name":"DDLJ",
+                "imdb_rating":"8.0",
+                "s_img":"https://wallpapercave.com/wp/wp7021459.jpg",
+                "cast":"Shah Rukh Khan,Kajol"
+            }]
+
+    }]
+}
